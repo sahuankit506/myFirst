@@ -1,1 +1,4 @@
-this is the demo hello file to add github now i am changed my hello file to  new 
+this is the demo hello file to add github now i am changed my hello file to  new
+
+
+git diff tool is use to check to file old and new updated version what changes you are made in the old file
